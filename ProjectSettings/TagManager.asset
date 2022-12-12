@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Harmful
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - XRay
+  - Glass
+  - Character
+  - Transparent
+  - Neutral
+  - BlackCharacter
+  - WhiteCharacter
+  - BlackObject
+  - WhiteObject
+  - Skelet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 1242316729
+    locked: 0
+  - name: ForeGround
+    uniqueID: 2121590693
+    locked: 0
+  - name: Player
+    uniqueID: 4121610185
+    locked: 0
+  - name: Ground
+    uniqueID: 184658225
+    locked: 0
